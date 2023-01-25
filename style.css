@@ -1,0 +1,31 @@
+.div_menu{
+    background-color: black;
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+.menu{
+    
+    color: aliceblue !important;
+}
+
+.slider-div{
+    text-align: center;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+
+.footer-alamat{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-size: smaller;
+}
+
+div.isi{
+    text-align: justify;
+}
